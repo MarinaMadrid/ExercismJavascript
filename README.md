@@ -1,2 +1,2 @@
 # ExercismJavascript
-Ejercicios realizados en Exercism sobre Javascript
+Ejercicios realizados en Exercism sobre Javascript.
