@@ -1,3 +1,4 @@
+/*
 # Instructions
 
 The classical introductory exercise. Just say "Hello, World!".
@@ -11,3 +12,14 @@ The objectives are simple:
     Submit your solution and check it at the website.
 
 If everything goes well, you will be ready to fetch your first real exercise.
+
+*/
+
+//
+// This is only a SKELETON file for the 'Hello World' exercise. It's been provided as a
+// convenience to get you started writing code faster.
+//
+
+export function hello() {
+  return 'Hello, World!';
+}
